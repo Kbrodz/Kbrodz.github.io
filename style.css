@@ -17,6 +17,7 @@ body
 {
 	width: 960px;
 	margin: 20px;
+	text-align: center;
 }
 
 .square
@@ -31,8 +32,6 @@ body
 	font-family: 'Dancing Script', cursive;
 	font-size: 70px;
 	width: 600px;
-	margin-top: 10px;
-	margin-bottom: 10px;
 }
 
 #clock
@@ -40,8 +39,6 @@ body
 	float: left;
 	font-family: 'Dancing Script', cursive;
 	font-size: 70px;
-	margin-top: 10px;
-	margin-bottom: 10px;
 }
 
 .tile1
